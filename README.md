@@ -1,4 +1,4 @@
-### Hola a todos 👋
+### Hi there 👋
 
 <!--
 **Gonzaa25/Gonzaa25** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+- I’m currently learning NodeJs and Mongo at Coursera.
