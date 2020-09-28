@@ -14,6 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- 🔭 I’m currently working with Flutter.
+- 💻 I’m currently working with Flutter.
 - 👨‍💻 I’m currently learning NodeJS and MongoDB at Coursera.
 - 📫 How to reach me: gonzalo.gauto@gmail.com
