@@ -16,6 +16,7 @@ Here are some ideas to get you started:
 -->
 - 💻 I’m currently working on [Zoologic](https://www.zoologic.com.ar/).
 - 👨‍💻 I’m currently learning NodeJS and MongoDB at Coursera.
+- 💬 Ask me about Flutter.
 - 📫 How to reach me: gonzalo.gauto@gmail.com
 
 **Languages and Tools:**  
