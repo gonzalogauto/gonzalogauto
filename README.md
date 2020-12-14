@@ -19,6 +19,8 @@ Here are some ideas to get you started:
 - 💬 Ask me about Flutter.
 - 📫 How to reach me: gonzalo.gauto@gmail.com
 
+[![Linkedin: Gonzalo Gauto](https://img.shields.io/badge/-Gonzalo Gauto-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gonzalo-martin-gauto-190b52152/)](https://www.linkedin.com/in/gonzalo-martin-gauto-190b52152/)
+
 **Languages and Tools:**  
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png"></code>
