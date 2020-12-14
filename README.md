@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 - 💬 Ask me about Flutter.
 - 📫 How to reach me: gonzalo.gauto@gmail.com
 
-[![Linkedin: GonzaloGauto](https://img.shields.io/badge/-Gonzalo Gauto-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gonzalo-martin-gauto-190b52152/)](https://www.linkedin.com/in/gonzalo-martin-gauto-190b52152/)
+[![Linkedin: GonzaloGauto](https://img.shields.io/badge/-GonzaloGauto-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gonzalo-martin-gauto-190b52152/)](https://www.linkedin.com/in/gonzalo-martin-gauto-190b52152/)
 
 **Languages and Tools:**  
 
