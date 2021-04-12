@@ -46,3 +46,9 @@ Here are some ideas to get you started:
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Gonzaa25&repo=adminbro-panel&theme=light" />
 
 </a>
+
+<div align="center">
+
+### Show some ❤️ by starring some of the repositories!
+
+</div>
