@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- 💻 I’m currently working on [Zoologic](https://www.zoologic.com.ar/).
+- 💻 I’m currently working on [Terrand](https://web.terrand-audits.com/#/).
 - 👨‍💻 I’m currently learning NextJs and ReactJs.
 - 💬 Ask me about Flutter.
 - 📫 How to reach me: gonzalo.gauto@gmail.com
