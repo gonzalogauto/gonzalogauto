@@ -1,5 +1,4 @@
-## Hola, I'm [Gonzalo Gauto!](http://gga-webcv.herokuapp.com/) 👋
-
+## Hola, I'm [Gonzalo Gauto!](http://gga-webcv.herokuapp.com/) 
 <!--
 **Gonzaa25/Gonzaa25** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -16,7 +15,9 @@ Here are some ideas to get you started:
 -->
 - 💻 I’m currently working on [Create Thrive](https://createthrive.com/).
 - 💬 Ask me about Flutter.
+- 🌱 I’m currently learning about [Mason](https://github.com/felangel/mason)
 - 📫 How to reach me: gonzalo.gauto@gmail.com
+- 😄 Pronouns: he/him/his
 
 [![Linkedin: Gonzalo Gauto](https://img.shields.io/badge/-GonzaloGauto-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gonzalo-martin-gauto-190b52152/)](https://www.linkedin.com/in/gonzalo-martin-gauto-190b52152/)
 [![GitHub Gonzalo Gauto](https://img.shields.io/github/followers/gonzalogauto?label=follow&style=social)](https://github.com/Gonzaa25)
